@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://geeciengue.thirdstoryllc.com/sitemap.xml
